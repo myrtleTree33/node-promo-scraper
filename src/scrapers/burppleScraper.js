@@ -154,18 +154,18 @@ const burppleWorkerSingle = asyncWorker({
   }
 });
 
-const burppleScraperTask = () => {
+const scrapeBurpple = () => {
   logger.info('Started Burpple scraping..');
   burppleWorker();
   burppleWorkerSingle();
 };
 
 const scrapeBurppleScheduled = interval => {
-  const job = new CronJob(interval, () => burppleScraperTask(), null, true, 'America/Los_Angeles');
+  const job = new CronJob(interval, () => scrapeBurpple(), null, true, 'America/Los_Angeles');
   job.start();
   logger.info('Scheduled Burpple scraping.');
 
-  burppleScraperTask();
+  scrapeBurpple();
 };
 
 export default scrapeBurppleScheduled;
