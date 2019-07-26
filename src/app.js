@@ -9,6 +9,7 @@ import logger from './logger';
 
 import baseRoutes from './routes/baseRoutes';
 import startScraping from './scrapers/mainScraper';
+import dumpOutlets from './utils/outletDump';
 
 // connect to Mongo DB
 logger.info(`Connecting to ${process.env.MONGO_URI}..`);
@@ -51,6 +52,7 @@ app.use((err, req, res, next) => {
   res.status(err.httpCode || 500).json({ code, message });
 });
 
-startScraping();
+// startScraping();
+dumpOutlets();
 
 export default app;

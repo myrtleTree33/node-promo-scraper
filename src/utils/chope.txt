@@ -1,0 +1,701 @@
+1.29645, 103.855151, Clinton Street Baking Company, #00ffff
+1.304185, 103.824783, Basilico, #00ffff
+1.3327399, 103.7910614, Violet Oon Singapore (Bukit Timah), #00ffff
+1.305083, 103.904304, Shin Minori Japanese Restaurant @ Katong Square -  1-for-1 Omizu Weekday Lunch Buffet, #00ffff
+1.2966011, 103.8549439, Garibaldi Italian Restaurant & Bar, #00ffff
+1.28338, 103.8302231, Bincho at Hua Bee, #00ffff
+1.292157, 103.842684, Shin Minori Japanese Restaurant @ UE Square - 1-for-1 Omizu Weekday Lunch Buffet, #00ffff
+1.30003, 103.84474, Tim Ho Wan @ Plaza Singapura, #00ffff
+1.3062164, 103.8317248, 8 Korean BBQ (Shaw Centre), #00ffff
+1.287678, 103.805332, The Carvery - 30% Off Lunch & Dinner Buffet, #00ffff
+1.278145, 103.840769, The Populus Coffee & Food Co., #00ffff
+1.322786, 103.812119, Atlas Coffeehouse, #00ffff
+1.263418, 103.821266, Jamie's Italian (Vivocity), #00ffff
+1.3647917, 103.8354904, GRUB (Bishan Park), #00ffff
+1.306339, 103.828639, Jamie's Italian (Forum), #00ffff
+1.340617, 103.853781, Kelly Jie Seafood (Formerly TPY Mellben), #00ffff
+1.36229, 103.847413, Canopy Garden Dining, #00ffff
+1.303842, 103.859226, Symmetry, #00ffff
+1.289367, 103.836696, Four Points Eatery - 1-for-1 Buffet, #00ffff
+1.2799397, 103.8471868, The Market Grill, #00ffff
+1.3022077, 103.836443, Shisen Hanten and Coffee & Crust, #00ffff
+1.3022077, 103.836443, Triple Three Restaurant Up to 50% Off Buffet, #00ffff
+1.2792286, 103.8429124, Xiao Ya Tou, #00ffff
+1.2784485, 103.8427697, L'Entrecôte The Steak & Fries Bistro (Duxton), #00ffff
+1.2800689, 103.847854, Shukuu Izakaya, #00ffff
+1.302927, 103.836284, Mitzo Restaurant & Bar, #00ffff
+1.2790701, 103.8434348, Pince & Pints Restaurant and Bar [Duxton], #00ffff
+1.3006313, 103.8397382, Tapas Club (Orchard), #00ffff
+1.279663, 103.841782, Bao Makers, #00ffff
+1.264241, 103.822327, Shin Kushiya, #00ffff
+1.278097, 103.850951, Seasonal Tastes 1-for-1 Buffet, #00ffff
+1.28967, 103.85007, (Orchard) HANS IM GLÜCK German Burgergrill, #00ffff
+1.29889, 103.81222, Boufe Boutique Cafe, #00ffff
+1.280169, 103.847458, Meat Smith @ Telok Ayer, #00ffff
+1.2918402, 103.8585524, Edge - 20% Off Lunch & Dinner Buffet, #00ffff
+1.326623, 103.852831, Wheeler's Yard, #00ffff
+1.3923769, 103.9161208, Uncle Leong Seafood (Punggol), #00ffff
+1.2998326, 103.8500608, Red House (Prinsep), #00ffff
+1.349249, 103.770506, Spruce (Fire Station), #00ffff
+1.2965559, 103.8553075, Salted & Hung, #00ffff
+1.3080394, 103.8581711, Wan He Lou, #00ffff
+1.33429, 103.742538, Tim Ho Wan @ Westgate Mall, #00ffff
+1.29222, 103.85605, Tim Ho Wan @ CityLink Mall, #00ffff
+1.3022077, 103.836443, Chatterbox, #00ffff
+1.300057, 103.844826, Nanjing Impressions, #00ffff
+1.30473, 103.831466, Salt grill & Sky Bar, #00ffff
+1.298512, 103.853512, Tanuki Raw at the National Design Centre, #00ffff
+1.304185, 103.824783, Summer Palace, #00ffff
+1.33651, 103.88878, Tim Ho Wan @ Tai Seng, #00ffff
+1.39255, 103.917026, Uncle Leong Signatures (Waterway Point), #00ffff
+1.2800234, 103.8472329, MOJO (Dinner Only), #00ffff
+1.291003, 103.846038, Red House (Clarke Quay), #00ffff
+1.2905299, 103.8573481, Tenkaichi Japanese BBQ Restaurant (Marina Square) - 1-for-1 All Day Buffet, #00ffff
+1.303301, 103.810362, Blu Kouzina, #00ffff
+1.3089566, 103.8622905, Antoinette (Penhas Road), #00ffff
+1.29867, 103.85206, Sumo Bar Happy, #00ffff
+1.302421, 103.839922, 49 Seats, #00ffff
+1.311228, 103.796542, Original Sin, #00ffff
+1.34247, 103.69117, Tim Ho Wan (Jurong Point), #00ffff
+1.2870832, 103.8493468, Braci, #00ffff
+1.3077162, 103.9075305, Firebake - Woodfired Bakehouse & Restaurant, #00ffff
+1.2934064, 103.8582643, Oscar's - 20% Off Buffet, #00ffff
+1.30245, 103.8641836, Folklore, #00ffff
+1.300791, 103.844998, Cajun on Wheels (Plaza Singapura), #00ffff
+1.299645, 103.860387, Uni Gallery by Oosterbay, #00ffff
+1.290089, 103.839172, Red House (Robertson Quay), #00ffff
+1.30658, 103.83212, Tim Ho Wan @ Pacific Plaza, #00ffff
+1.310077, 103.881833, Haru, #00ffff
+1.311507, 103.794799, La Nonna (Holland Village), #00ffff
+1.30507, 103.90509, Tim Ho Wan @ I12 Katong, #00ffff
+1.302341, 103.836471, Lawry's The Prime Rib Singapore, #00ffff
+1.264814, 103.823259, Tapas Club (VivoCity), #00ffff
+1.3108, 103.86454, Tim Ho Wan @ Lavender Aperia Mall, #00ffff
+1.288464, 103.842043, Central Perk (F.R.I.E.N.D.S Cafe), #00ffff
+1.333666, 103.963005, Table Manners (Changi City Point), #00ffff
+1.283274, 103.850883, (Raffles Place) HANS IM GLÜCK German Burgergrill, #00ffff
+1.291792, 103.846024, The Fabulous Baker Boy, #00ffff
+1.28967, 103.85007, Café Mosaic - 1-for-1 Dinner Buffet, #00ffff
+1.343066, 103.797242, Riders Café, #00ffff
+1.2923357, 103.8567143, Ruth's Chris Steak House, #00ffff
+1.3121315, 103.7971158, Sunday Folks, #00ffff
+1.283966, 103.853581, Kinki Restaurant + Bar, #00ffff
+1.3503209, 103.8486223, Ambush-Pan European Dining (Junction 8), #00ffff
+1.351429, 103.835325, Pacamara Boutique Coffee Roasters, #00ffff
+1.283169, 103.852309, Zafferano Italian Restaurant & Lounge, #00ffff
+1.2934064, 103.8582643, Oscar's, #00ffff
+1.2936804, 103.8556537, My Melody Cafe Singapore, #00ffff
+1.2644794, 103.8222866, (VivoCity) HANS IM GLÜCK German Burgergrill, #00ffff
+1.302707, 103.834289, DC Super Heroes Cafe (Takashimaya), #00ffff
+1.292804, 103.85967, Kith Cafe (Millenia Walk), #00ffff
+47.4501, -82.64978, Mookata Lunch / Dinner Set Meal for 1 Person by Charcoal Thai, #00ffff
+1.304185, 103.824783, Tea Lounge, #00ffff
+1.2893155, 103.8442642, Café Iguana, #00ffff
+1.285831, 103.860375, DC Super Heroes Cafe (Marina Bay Sands), #00ffff
+1.2913174, 103.8074006, Ristorante Takada, #00ffff
+1.3121783, 103.8542387, Blue Jasmine, #00ffff
+1.2802761, 103.8467749, Chengdu 成都, #00ffff
+1.28967, 103.85007, Lobster Roll Set by Chunky Lobsters @ The Cathay, #00ffff
+1.2819394, 103.8456447, Ichida Japanese Dining, #00ffff
+1.2942801, 103.8537903, Prego, #00ffff
+1.3526188, 103.8346847, Habitat Coffee, #00ffff
+1.2812275, 103.8455792, Oxwell & Co, #00ffff
+1.327048, 103.847462, 21 on Rajah, #00ffff
+1.3823625, 103.8940316, Chicken Up (Buangkok), #00ffff
+1.2893155, 103.8442642, Brewerkz Riverside Point, #00ffff
+1.327048, 103.847462, 21 On Rajah - Up to 25% Off Buffet, #00ffff
+1.290989, 103.857422, Sushi Jiro (Marina Mandarin), #00ffff
+1.284629, 103.864698, Majestic Bay Seafood Restaurant, #00ffff
+1.3084962, 103.8627396, Lighthouse Bistro & Bar, #00ffff
+1.28967, 103.85007, Grin Affair, #00ffff
+1.28967, 103.85007, Tea Valley @ Tiong Bahru Plaza, #00ffff
+1.2963106, 103.8543948, Mr Punch Public House, #00ffff
+1.28967, 103.85007, Beef Bro SG (Century Square), #00ffff
+1.300082, 103.874255, Brewerkz Indoor Stadium, #00ffff
+1.28711, 103.84837, Un-Yang-Kor-Dai, #00ffff
+1.286333, 103.849728, DePizza, #00ffff
+1.264404, 103.822647, No Signboard Seafood (VivoCity), #00ffff
+1.289704, 103.851285, Smoke & Mirrors, #00ffff
+1.290653, 103.8583419, Melt Café, #00ffff
+1.28185, 103.847628, Maggie Joan's, #00ffff
+1.339485, 103.70656, Seoul Garden (Jurong Point), #00ffff
+1.301032, 103.86167, Big Sake Bar, #00ffff
+1.278072, 103.8410655, The Lokal, #00ffff
+1.305386, 103.825198, Dan Ryan's Chicago Grill, #00ffff
+1.290333, 103.835201, Food Capital - 1-for-1 Buffet, #00ffff
+1.29201, 103.849932, Coleman's Cafe - Up to 59% Off Weekend Buffet Lunch & Dinner, #00ffff
+1.4348424, 103.7793511, Citrus By The Pool, #00ffff
+1.296992, 103.855, Saveur (Purvis), #00ffff
+1.407956, 103.868533, Wildseed Cafe at The Summerhouse, #00ffff
+1.2927292, 103.859401, Plentyfull, #00ffff
+1.2712946, 103.8193259, Arbora, #00ffff
+1.285724, 103.859404, Sen of Japan, #00ffff
+1.2785388, 103.8405396, Trattoria Nonna Lina, #00ffff
+1.2661446, 103.8238593, Rumah Rasa - Up to 40% Off Buffet, #00ffff
+1.2827386, 103.8440556, Yum Cha Chinatown, #00ffff
+1.372676, 103.829532, Thus Coffee, #00ffff
+1.27379, 103.845066, Café 2000 - 1-for-1 Buffet, #00ffff
+1.336755, 103.886954, Flame Cafe - Up to 30% Off Buffet, #00ffff
+1.3524868, 103.9448034, Seoul Garden (Tampines Mall), #00ffff
+1.2834622, 103.8478549, Lai Huat Signatures (China Street), #00ffff
+1.2966596, 103.8485214, Food For Thought (National Museum of Singapore), #00ffff
+1.28967, 103.85007, Lobster Roll Set by Chunky Lobsters @ Oxley Tower, #00ffff
+1.277567, 103.844103, Don & Tori, #00ffff
+1.295327, 103.851464, Giardino Pizza Bar & Grill, #00ffff
+1.291975, 103.841458, King Ohmii, #00ffff
+1.28202, 103.848361, MARUKYU, #00ffff
+1.2996125, 103.8556033, Seoul Garden (Bugis Junction), #00ffff
+1.31094, 103.860397, TWO Bakers (Jalan Besar), #00ffff
+1.292528, 103.850092, Tablescape Restaurant & Bar, #00ffff
+1.285213, 103.850153, Si Chuan Dou Hua (UOB Plaza), #00ffff
+1.294012, 103.853384, The Coffee Academics (Raffles City), #00ffff
+1.290467, 103.836953, Beast & Butterflies, #00ffff
+1.290827, 103.857963, Seoul Garden (Marina Square), #00ffff
+1.353045, 103.94363, MediumRare by Saveur, #00ffff
+1.300801, 103.839162, Som Tam (Orchard Central), #00ffff
+1.2891, 103.855676, No Signboard Seafood (Esplanade Mall), #00ffff
+1.28967, 103.85007, Dosirak, #00ffff
+1.28563, 103.8538971, JING Seafood Restaurant, #00ffff
+1.28967, 103.85007, The Good Boys, #00ffff
+1.324422, 103.809297, KARA Cafe & Dessert Bar, #00ffff
+1.3025106, 103.8411033, Window on the Park - 55% off Buffet, #00ffff
+1.311942, 103.79716, Madrinaa Italiano, #00ffff
+1.318974, 103.815589, Bee's Knees, #00ffff
+1.304451, 103.904757, Baba Chews Bar & Eatery, #00ffff
+1.284198, 103.851108, Acai & Yoghurt Bowls Set by Parallel @ One Raffles Place, #00ffff
+1.313275, 103.828947, Food Exchange - 30% Off Buffet, #00ffff
+1.304126, 103.809598, Little House of Dreams, #00ffff
+1.28967, 103.85007, Wafuken @ OUE Downtown Gallery, #00ffff
+1.299526, 103.853104, Royale - 1-for-1 International Buffet, #00ffff
+1.2911252, 103.8417868, Rosso Vino, #00ffff
+1.27845, 103.844322, Gattopardo Ristorante di Mare, #00ffff
+1.28967, 103.85007, Lime House Caribbean Restaurant & Bar, #00ffff
+1.288079, 103.835947, Kintamani Indonesian Restaurant - Up to 55% Off Lunch & Dinner Buffet, #00ffff
+1.320789, 103.843145, Sky22 - 25% Off Buffet, #00ffff
+1.28967, 103.85007, Full Of Luck Restaurant, #00ffff
+1.28967, 103.85007, Single Scoop Waffle with Tea by Everton Creamery, #00ffff
+1.4295656, 103.8361296, Seoul Garden (North Point), #00ffff
+1.2860573, 103.8541321, Forlino, #00ffff
+1.289442, 103.846608, No Signboard Seafood (Clarke Quay Central), #00ffff
+1.292729, 103.859401, SBCD Korean Tofu House (Millenia Walk), #00ffff
+1.2821, 103.8484192, Moosehead Kitchen & Bar, #00ffff
+1.28967, 103.85007, Ginger - 15% Off Buffet, #00ffff
+1.305333, 103.852458, Meat Smith (Little India), #00ffff
+1.3036447, 103.8098267, Jones the Grocer (Dempsey), #00ffff
+44.9760423, -93.2540523, Tea Valley @ Downtown East, #00ffff
+1.3006313, 103.8397382, TungLok Seafood (Orchard Central), #00ffff
+1.28967, 103.85007, Waa Cow! (Marina One), #00ffff
+1.3081404, 103.8569748, Swee Choon Tim Sum Restaurant [Weekdays Only], #00ffff
+1.3037148, 103.8332476, Inaniwa Yosuke (Japan Food Town), #00ffff
+1.294152, 103.849149, True Blue Cuisine, #00ffff
+-15.75268, 35.21576, 3 Course Set Menu By Hafu Dog, #00ffff
+1.2643246, 103.8203062, Seoul Garden (HarbourFront Centre), #00ffff
+1.308692, 103.83418, Alma by Juan Amador, #00ffff
+1.2739, 103.8451, The Buffet Restaurant - 1-for-1 Buffet, #00ffff
+1.2812539, 103.848566, Sum Yi Tai, #00ffff
+1.298309, 103.855048, The Lobby Lounge at InterContinental Singapore, #00ffff
+1.298504, 103.855053, Man Fu Yuan, #00ffff
+1.28967, 103.85007, 2 Course Set Menu + Drinks for 2 Pax by Noodle Thai Thai Kitchen @ Beach Road, #00ffff
+1.3244783, 103.8092231, Kith Cafe (Bukit Timah), #00ffff
+1.2934064, 103.8582643, Golden Peony, #00ffff
+1.407956, 103.868533, The Summerhouse, #00ffff
+1.3144334, 103.8523818, Old Hen Kitchen, #00ffff
+1.277087, 103.845805, SBCD Korean Tofu House (Tanjong Pagar Centre), #00ffff
+1.336755, 103.886954, Flame Cafe, #00ffff
+1.2836889, 103.8474883, SONS, #00ffff
+1.33711, 103.794411, The Cavern Horsecity, #00ffff
+1.3112615, 103.8566059, Wok Master (City Square Mall), #00ffff
+1.295301, 103.852249, The Winery Tapas | Bar, #00ffff
+1.28967, 103.85007, Wafu Pasta or Rice Set By Washoku Cafe, #00ffff
+1.3190645, 103.8149478, Botanico at The Garage, #00ffff
+1.384139, 103.943539, Georges @ The Cove, #00ffff
+1.28967, 103.85007, Waa Cow! (Raffles Xchange), #00ffff
+1.3056236, 103.8120324, Morsels, #00ffff
+1.3052327, 103.8304019, Wan Hao Chinese Restaurant, #00ffff
+1.28967, 103.85007, TONO Cevicheria, #00ffff
+1.3065921, 103.8315724, Xi Yan Shaw, #00ffff
+1.316497, 103.8354576, Spizza (Bukit Timah), #00ffff
+1.28967, 103.85007, The FernTree Cafe - 1-for-1 Lunch & Dinner Buffet, #00ffff
+1.28967, 103.85007, Melt Café - 15% off Buffet, #00ffff
+1.30989, 103.855286, Copper Chimney, #00ffff
+1.335408, 103.963626, Yum Cha Changi, #00ffff
+1.35018, 103.873221, Seoul Garden (NEX), #00ffff
+47.80547, -92.27461, OLA Cocina Del Mar, #00ffff
+1.28967, 103.85007, The Mast' of Mozzarella & CO., #00ffff
+1.29974, 103.841205, Kith Cafe (Winsland House II), #00ffff
+1.2966703, 103.8676309, Kontiki, #00ffff
+1.291997, 103.85378, Tempura Ten Ten, #00ffff
+1.291062, 103.840279, SPRMRKT @ STPI, #00ffff
+1.311777, 103.836579, The Dining Room, #00ffff
+1.2975625, 103.8568589, 2 Course Set Menu + Drink by Maggie Thai & Chinese Restaurant, #00ffff
+33.83585, -118.34063, Mains + Drink Set for 2 by The Roof @ Beer Alley, #00ffff
+1.288888, 103.834156, Atrium Restaurant, #00ffff
+1.2801431, 103.8467801, WANTON, #00ffff
+1.33374, 103.742641, Wok Master (Westgate), #00ffff
+1.2844948, 103.8511573, Gin Khao (One Raffles Place), #00ffff
+1.2776327, 103.8442975, Cafe & Bar Gavroche, #00ffff
+1.2958539, 103.8550939, Table Restaurant and Bar, #00ffff
+1.306842, 103.78844, YAYOI Japanese Restaurant (Star Vista), #00ffff
+1.29868, 103.85367, Set Lunch + Free Flow Soup & Bread by Stuttgart Blackforest Boutique S-Cafe, #00ffff
+1.306592, 103.827637, Brewerkz Orchard Rendezvous Hotel, #00ffff
+1.358485, 103.76764, Acqua e Farina, #00ffff
+1.298573, 103.855075, Ash & Elm, #00ffff
+1.320661, 103.842869, Baan Ying Singapore, #00ffff
+1.28967, 103.85007, Ice-Cream Waffles or Cake Set for 4 by Twenty Grammes, #00ffff
+1.28967, 103.85007, 4 Course Set Menu by The Beef Station, #00ffff
+1.276993, 103.843891, Two Blur Guys, #00ffff
+1.299673, 103.86008, Ginger, #00ffff
+1.2743414, 103.8444187, The Quarters, #00ffff
+1.29994, 103.8573119, Cast Iron, #00ffff
+1.28967, 103.85007, Double Scoop Ice Cream and Waffle Set by Denzy Gelato, #00ffff
+1.328968, 103.848663, GRUB Burger + Noodle Bar, #00ffff
+1.313758, 103.828346, Winestone, #00ffff
+1.2817018, 103.8456841, L'Angelus, #00ffff
+1.4206682, 103.9122567, Georges By The Bay, #00ffff
+1.306095, 103.81219, Tree Lizard Restaurant & Bar, #00ffff
+1.3041858, 103.8374793, Kith Cafe (Ascott Orchard), #00ffff
+1.299718, 103.854141, YAYOI Japanese Restaurant (Bugis+), #00ffff
+1.28967, 103.85007, 3 Course Set Menu by Sweetfish Poke, #00ffff
+1.295548, 103.859112, District 10 (Suntec City), #00ffff
+1.294975, 103.849397, Le Bistrot Du Sommelier, #00ffff
+1.312389, 103.8543712, Escape Restaurant & Lounge - 1-for-1 Buffet, #00ffff
+1.2923785, 103.8408052, Yumeya Japanese Restaurant, #00ffff
+1.301607, 103.836291, Tenkaichi Japanese BBQ Restaurant (Cineleisure) - 1-for-1 All Day Buffet, #00ffff
+1.28967, 103.85007, Escape Restaurant & Lounge, #00ffff
+1.282212, 103.847195, Guccio Ristorante, #00ffff
+1.3121783, 103.8542387, Blue Jasmine - 20% Off Anchan Thai Dinner Buffet, #00ffff
+1.3967965, 103.8872362, Citrus Bistro, #00ffff
+1.407956, 103.868533, Wildseed Grill & Bar, #00ffff
+1.248015, 103.841786, Gin Khao Bistro (Sentosa Cove), #00ffff
+1.30039, 103.859444, Ciao@ Italian Risto-Bar, #00ffff
+1.300924, 103.838332, Marché Mövenpick (313 Somerset), #00ffff
+1.299673, 103.86008, Si Chuan Dou Hua (Beach Road), #00ffff
+1.3972741, 103.8730759, Spizza (Jalan Kayu), #00ffff
+1.302927, 103.836284, Bar Canary, #00ffff
+1.28967, 103.85007, YAYOI Japanese Restaurant (100AM), #00ffff
+1.2836889, 103.8474883, Club Meatballs by ClubCO, #00ffff
+1.2842, 103.8511, Acai & Yoghurt Bowl Sets by Parallel @ Raffles City, #00ffff
+1.30694, 103.828381, California Pizza Kitchen, #00ffff
+1.38639, 104.0025, Wok Master (Changi City Point), #00ffff
+1.29868, 103.85367, Stuttgart Blackforest Boutique S-Cafe, #00ffff
+1.28967, 103.85007, 13% Gastro Wine @ Telok Ayer, #00ffff
+1.295868, 103.855535, Matsuya Dining, #00ffff
+1.2782987, 103.8525394, Standing Sushi Bar (Marina One), #00ffff
+1.2815767, 103.8480858, Sarnies Cafe, #00ffff
+1.340779, 103.778869, The Grumpy Bear @ Bukit Timah, #00ffff
+1.2934064, 103.8582643, Conrad Lobby Lounge, #00ffff
+1.297832, 103.857149, Q-WA Izakaya, #00ffff
+1.294249, 103.853891, Shahi Maharani, #00ffff
+1.3043924, 103.7857638, Thyme @ Rochester, #00ffff
+1.291873, 103.859693, Fumée by Habanos, #00ffff
+1.28967, 103.85007, The White Ombre Cafe, #00ffff
+1.28967, 103.85007, Afterwit - Mexican Taqueria, #00ffff
+1.28899, 103.84851, Ricciotti (Riverwalk), #00ffff
+1.29658, 103.851383, Switch by Timbre X, #00ffff
+1.296507, 103.855243, Yummo Chow, #00ffff
+1.288549, 103.85094, Timbre X @ The Arts House, #00ffff
+1.263904, 103.812846, Sushi Jiro (Keppel Bay), #00ffff
+1.28967, 103.85007, The Berlin Bar & Restaurant, #00ffff
+1.3014269, 103.914883, Georges Beach Club, #00ffff
+1.310692, 103.855743, Si Chuan Dou Hua (Kitchener Road) - 30% Off Dinner Buffet, #00ffff
+1.28967, 103.85007, Inspirit House, #00ffff
+1.2661446, 103.8238593, Rumah Rasa, #00ffff
+1.3018673, 103.8411316, Tandoor, #00ffff
+1.278295, 103.850662, Tao Seafood Asia, #00ffff
+1.31464, 103.83007, Wafuken @ Asia Square, #00ffff
+1.2890031, 103.8341571, Xin Cuisine Chinese Restaurant, #00ffff
+1.278229, 103.843747, Leopold, #00ffff
+1.28967, 103.85007, Froroll, #00ffff
+1.28967, 103.85007, Marriott Café, #00ffff
+1.306035, 103.832894, The Coffee Academics (Scotts Square), #00ffff
+1.308718, 103.85165, Everest Kitchen, #00ffff
+1.2982594, 103.847712, SMbar (Prinsep), #00ffff
+1.310869, 103.852836, Raj Restaurant (Farrer Park), #00ffff
+1.280364, 103.848018, Trattoria Amanda, #00ffff
+1.329458, 103.682091, TungLok Seafood (Arena Country Club), #00ffff
+1.388892, 103.987688, Chock Full of Beans, #00ffff
+1.28967, 103.85007, The Botanic Restaurant, #00ffff
+1.274818, 103.846739, Takayama Japanese Restaurant, #00ffff
+1.30056, 103.85493, ROCKU Yakiniku - $28 nett All-Day ROCKU Yakiniku Buffet, #00ffff
+1.278173, 103.850686, Cook & Brew, #00ffff
+1.28967, 103.85007, Rice Bowl Set by Wan Niu Wan, #00ffff
+1.295566, 103.859691, Marché Mövenpick (Suntec City), #00ffff
+1.28967, 103.85007, Isteamboat Chinese Restaurant - Up to 34% Off All Day Steamboat Buffet, #00ffff
+1.3331752, 103.7902874, Le Rida (Grille, Steaks & Mezze Bar), #00ffff
+1.283589, 103.8476316, Folks Collective - The Vintage Shope (China Square), #00ffff
+1.305104, 103.832837, Pool Grill, #00ffff
+1.28967, 103.85007, 13% Gastro Wine @ Kiliney, #00ffff
+1.3267327, 103.8416539, Cavemen Restaurant & Bar, #00ffff
+1.2942801, 103.8537903, Mikuni, #00ffff
+1.28967, 103.85007, Chulove Cafe, #00ffff
+1.289131, 103.842866, Manpei 万平, #00ffff
+47.4501, -82.64978, Charcoal Thai - Up to 47% Off Daily Buffet, #00ffff
+1.38639, 104.0025, Paper Rice Vietnamese Kitchen, #00ffff
+1.2938, 103.8418, House of MU, #00ffff
+1.299797, 103.849734, STAGE, #00ffff
+1.266366, 103.823797, Propeller, #00ffff
+1.28967, 103.85007, Decker Barbecue, #00ffff
+1.3340622, 103.9627633, BLVD @ Changi, #00ffff
+1.294692, 103.85327, Marché Mövenpick (Raffles City), #00ffff
+1.28967, 103.85007, Jianghu Hotpot, #00ffff
+1.287178, 103.849337, Bonchon (Boat Quay), #00ffff
+1.308704, 103.911468, Jag Wine, #00ffff
+1.278334, 103.848281, Pickleville, #00ffff
+1.293491, 103.784426, 2 Course Set Meal by Poke Theory @ One Kentridge, #00ffff
+1.28967, 103.85007, Solo Ristorante, #00ffff
+1.28967, 103.85007, The Coffee Belt (Park Hotel Farrer Park), #00ffff
+1.37308, 103.837658, The Grumpy Bear Cafe, #00ffff
+1.288079, 103.835947, Kintamani Indonesian Restaurant, #00ffff
+1.28967, 103.85007, 3 Course Dinner Set by Lime House Caribbean Restaurant & Bar, #00ffff
+1.31183, 103.921904, Al Forno Tapas & Wine Bar, #00ffff
+1.304336, 103.85418, Korean Fusion BBQ (Dunlop Street), #00ffff
+1.326985, 103.846493, Set Menu for 2 Pax by Noodle Thai Thai @ Zhongshan Mall, #00ffff
+1.319997, 103.8439, 2 Course Set Meal by Poke Theory @ Novena, #00ffff
+1.29868, 103.85367, Main & Drink Set by Thai-licious Boat Noodle, #00ffff
+1.305287, 103.828667, One-Ninety Restaurant, #00ffff
+1.301266, 103.861182, Noodle Thai Thai Kitchen @ Beach Road, #00ffff
+1.293429, 103.853114, Bar Rouge, #00ffff
+1.280607, 103.845438, Casa Tartufo, #00ffff
+1.30559, 103.83176, Hai Xian Lao 海鲜捞 (Isetan Scotts), #00ffff
+1.276774, 103.848235, Chen's Mapo Tofu, #00ffff
+1.28967, 103.85007, IB HQ Singapore, #00ffff
+1.308961, 103.851357, Anjappar (Race Course Road), #00ffff
+1.287541, 103.836424, The Square @ Furama, #00ffff
+1.305188, 103.828652, One-Ninety Restaurant - 20% Off Sunday Brunch Buffet, #00ffff
+1.3546626, 103.8310096, The Grumpy Bear @ Thomson, #00ffff
+1.28967, 103.85007, Anti:Dote, #00ffff
+1.299161, 103.858169, 2 Course Set Meal by Poke Theory @ DUO Galleria, #00ffff
+1.278312, 103.850636, Lobby Lounge at The Westin Singapore, #00ffff
+1.29868, 103.85367, 13% Gastro Wine @ Aliwal, #00ffff
+1.28967, 103.85007, Afternoon Tea for 2 Pax by MO BAR, #00ffff
+1.304822, 103.853896, Chimichanga, #00ffff
+1.276743, 103.848264, Se7enth, #00ffff
+1.293975, 103.854057, Szechuan Court, #00ffff
+1.28967, 103.85007, Pita Tree Mediterranean Kitchen & Bar, #00ffff
+1.427922, 103.836231, Bonchon (NorthPoint City), #00ffff
+1.28967, 103.85007, KOMYUNITI, #00ffff
+1.281217, 103.848619, 2 Course Set Meal by Poke Theory @ Telok Ayer, #00ffff
+1.28967, 103.85007, Derwish Turkish, #00ffff
+1.29316, 103.85348, Kopi Tiam, #00ffff
+1.333367, 103.743073, Marché Mövenpick (JEM), #00ffff
+1.305891, 103.82942, Verde Kitchen, #00ffff
+1.293359, 103.85356, Asian Market Cafe, #00ffff
+1.326848, 103.72414, Signature Curry Fish Head by Sum Kee Foods @ Yung Ho, #00ffff
+1.39202, 103.895006, Bonchon (Compass One), #00ffff
+1.305147, 103.828711, One-Ninety Bar, #00ffff
+1.293428, 103.841818, Shu Yan Sichuan Cuisine, #00ffff
+1.294418, 103.849329, Timbre X @ The Substation, #00ffff
+1.319028, 103.894525, 3 Course Set Menu by Harvest Salad & Soup, #00ffff
+1.293308, 103.85736, Signature Kaisendon Set by Kei Kaisendon@Suntec City, #00ffff
+1.28922, 103.863622, Sky View Pavilion, #00ffff
+1.28967, 103.85007, Hai Tien Lo - 10% Off Dim Sum Lunch Buffet, #00ffff
+1.28967, 103.85007, Lazy Lizard NEWest - 30% Off Weekend Ala Carte Buffet for 4 Pax, #00ffff
+1.28495, 103.85148, NJ Relish, #00ffff
+1.280929, 103.845679, Tipple and Dram, #00ffff
+1.286372, 103.849357, The Public House, #00ffff
+1.291054, 103.844719, Tanyoto - Up to 37% Off Lunch & Dinner Steamboat Buffet, #00ffff
+1.299788, 103.854144, Bonchon (Bugis+), #00ffff
+1.291599, 103.84498, The Square Restaurant - Weekday Lunch Buffet (30% Off), #00ffff
+1.33611, 103.85, The Pizza Maker @ Beer Alley, #00ffff
+1.28967, 103.85007, Indline Restaurant, #00ffff
+1.276726, 103.84819, Express by Chatterbox, #00ffff
+1.280607, 103.845438, Aria Roofbar, #00ffff
+1.28967, 103.85007, 3 Course Weekday Lunch Set by Dolce Vita, #00ffff
+1.28967, 103.85007, The Laneway Market, #00ffff
+1.277651, 103.85315, 2 Course Set Meal by Poke Theory @ Marina One, #00ffff
+1.28967, 103.85007, Mini Hotpot Set for 2 Person by Isteamboat Chinese Restaurant, #00ffff
+1.28967, 103.85007, Lubnan Authentic Lebanese Restaurant, #00ffff
+1.275122, 103.842631, Acai Bowl & Cold Pressed Juice Set by Seed and Soil, #00ffff
+1.2975625, 103.8568589, Maggie Thai & Chinese Restaurant, #00ffff
+1.28967, 103.85007, Ice Cream and Waffle Set for 2 by The Clef Café, #00ffff
+1.301115, 103.859866, Sharing Set for 2-4 Pax by Positano Risto, #00ffff
+1.2856828, 103.8507661, 3 or 6 Course Set by Tong Fu Ju, #00ffff
+1.331169, 103.795254, Lazy Lizard Sixth Ave, #00ffff
+1.284056, 103.848462, Folks Collective - The Oriental Outpost (Capital Square), #00ffff
+1.28967, 103.85007, Xroads Cafe & Bar, #00ffff
+1.28967, 103.85007, Maya's Kitchen, #00ffff
+1.306095, 103.81219, 2 Course Set by Tree Lizard Restaurant & Bar, #00ffff
+1.302317, 103.841036, Lobby Lounge & Bar at Holiday Inn Singapore Orchard City Centre, #00ffff
+1.372355, 103.949351, Ministry Of Burgers, #00ffff
+1.28967, 103.85007, 1-for-1 Dinner Set Menu by Pita Tree Mediterranean Kitchen & Bar, #00ffff
+1.290279, 103.83503, Grissini, #00ffff
+1.27179, 103.809364, Out of the Cake Box, #00ffff
+1.313757, 103.828539, Food Exchange, #00ffff
+1.279639, 103.840057, A*MUSE Social Gathering, #00ffff
+1.28967, 103.85007, Semi Buffet Lunch Set by Tenkaichi Japanese BBQ Restaurant (Cineleisure), #00ffff
+1.329873, 103.930905, Jing Long Seafood Restaurant, #00ffff
+1.28967, 103.85007, 2 Course Set by 1001 of Arabia, #00ffff
+1.31917, 103.892562, Signature Kaisendon Set by Kei Kaisendon@Paya Lebar Square, #00ffff
+1.318943, 103.892323, Signature Set Meal by Kajiken@Paya Lebar Square, #00ffff
+1.298535, 103.8503611, Local Restaurant & Bar, #00ffff
+1.29868, 103.85367, San Shi Bar, #00ffff
+1.28967, 103.85007, Thyme @Aliwal, #00ffff
+1.28967, 103.85007, Bonta Bonta (Japan Food Town), #00ffff
+1.277, 103.836989, Kith Cafe (Spottiswoode), #00ffff
+1.29868, 103.85367, Thai-licious Boat Noodle, #00ffff
+1.284574, 103.850982, Signature Kaisendon Set by Kei Kaisendon@One Raffles Place, #00ffff
+1.28967, 103.85007, The Tavern Restaurant, #00ffff
+1.370654, 103.89436, 805 Seafood Kitchen, #00ffff
+1.29747, 103.852663, Sun's Cafe (Hotel Grand Pacific) - 1-for-1 Buffet, #00ffff
+1.320782, 103.844203, Signature Kaisendon Set by Kei Kaisendon@Novena Square, #00ffff
+1.292698, 103.762679, La Pizzeria at Bridge & Beacon Bar, #00ffff
+1.289646, 103.856222, 3 Course + Drink Set by Old School Delights (Esplanade), #00ffff
+1.28967, 103.85007, Mirch Masalah, #00ffff
+1.28967, 103.85007, 1001 of Arabia, #00ffff
+1.332515, 103.884827, Crab at Bay Seafood Restaurant, #00ffff
+1.283682, 103.844738, Jin Men Da Yuan Hot Pot - 10% Off Lunch & Dinner Steamboat Buffet, #00ffff
+1.418328, 103.84105, Lim Spring Court, #00ffff
+1.280919, 103.840799, Mini Hotpot Set for 1 Pax by Steamov, #00ffff
+1.330119, 103.744756, Cod Fish & Chips + Drink Set by Whathefish!, #00ffff
+1.313071, 103.859725, Enjoy Eating House and Bar, #00ffff
+1.28967, 103.85007, 2 Course or Seafood Set by Fusion Kitchen & Bar, #00ffff
+1.287541, 103.836424, The Square @ Furama - Up to 55% Off Lunch & Dinner Buffet, #00ffff
+1.282768, 103.83018, 2 Course Lunch Set by The Butcher's Wife, #00ffff
+1.379004, 103.955251, Seafood in a Bag Set by Jack Rabbit's Sports Bistro, #00ffff
+1.292843, 103.831928, Tim Ho Wan @ Great World City, #00ffff
+1.302364, 103.876442, 2 Medium cups of Original Yogurt + 2 Toppings by Yoguru @ Kallang Leisure Park, #00ffff
+1.379004, 103.955251, Jack Rabbit's Sports Bistro, #00ffff
+1.302098, 103.836498, The Providore (Mandarin Gallery), #00ffff
+1.290587, 103.84517, Spice World Hot Pot - NEW, #00ffff
+1.375739, 103.955868, 2 Medium cups of Original Yogurt + 2 Toppings by Yoguru @ E!Hub, #00ffff
+1.33769, 103.7936096, Dancing Crab (Turf Club), #00ffff
+1.291975, 103.841458, Hinata, #00ffff
+1.3051925, 103.8305905, LingZhi Vegetarian (Liat Towers), #00ffff
+1.319983, 103.843857, LingZhi Vegetarian (Velocity @ Novena Square), #00ffff
+1.255188, 103.821045, TungLok Heen, #00ffff
+1.291407, 103.841316, Unagiya Ichinoji (Robertson Quay), #00ffff
+1.295468, 103.858237, Unagiya Ichinoji Dining (Suntec City), #00ffff
+1.291571, 103.844632, Shin Yeh, #00ffff
+1.277846, 103.852561, Baja Fresh Mexican Grill (Marina One), #00ffff
+1.264262, 103.82252, Dancing Crab (VivoCity), #00ffff
+1.298551, 103.849025, Baja Fresh Mexican Grill (Rendezvous Gallery), #00ffff
+1.35329, 103.876617, No.3 Crab Delicacy (Teck Chye Terrace), #00ffff
+1.280907, 103.852344, Baja Fresh Mexican Grill (The Sail), #00ffff
+1.295705, 103.858571, Udon Kamon, #00ffff
+1.294523, 103.855666, Beach Road Kitchen - 50% off Second Diner for Sunday Brunch Buffet, #00ffff
+1.2644794, 103.8222866, Burger + Beer + Sharing Platter by HANS IM GLÜCK German Burgergrill (VivoCity), #00ffff
+1.281697, 103.852841, Breakfast or 3 Course Set by The Communal Bistro Delicacy, #00ffff
+1.283274, 103.850883, Burger + Beer + Sharing Platter Set by HANS IM GLÜCK German Burgergrill (Raffles Place), #00ffff
+1.288044, 103.849361, San Miguel Light Beer Bucket Set by Little London, #00ffff
+1.28156, 103.848343, Eliza, #00ffff
+1.28967, 103.85007, Irodori Japanese Restaurant - 30% Off Japanese Lunch Buffet, #00ffff
+1.2809677, 103.8482783, Chi Kinjo, #00ffff
+1.293537, 103.859758, Donergy 'Turkish Kebab', #00ffff
+1.302764, 103.850475, El Cubanos, #00ffff
+1.304723, 103.853817, Beer Tower or Party Bundle Set by Chimichanga, #00ffff
+1.293359, 103.8513711, Clove, #00ffff
+39.60992, 3.02948, Kraftwich by Swissbake, #00ffff
+43.51963, -114.31532, PastaMania, #00ffff
+1.28133, 103.84864, Mona Lounge, #00ffff
+1.2571234, 103.8192093, Slappy Cakes (Resorts World Sentosa), #00ffff
+1.28967, 103.85007, Marché Mövenpick (VivoCity), #00ffff
+1.278451, 103.848261, Ducatus Cafe, #00ffff
+1.282265, 103.852662, 2 Course Set + Drink by Chimi's, #00ffff
+1.3368049, 103.7937066, Slappy Cakes (The Grandstand), #00ffff
+1.3210087, 103.8439642, TungLok Teahouse (Square 2), #00ffff
+1.316981, 103.843797, Duckland, #00ffff
+1.298504, 103.855053, Man Fu Yuan - Up to 15% Off Weekend Dim Sum Brunch Buffet, #00ffff
+1.294088, 103.855465, Fasta, #00ffff
+1.325965, 103.79996, Burger + Drink Set by Alvin's, #00ffff
+1.279781, 103.840491, Thai Tanic Live Seafood Hotpot - 35% Off Buffet, #00ffff
+1.278959, 103.84054, The Reading Room, #00ffff
+1.278123, 103.8421, Pastaria Abate (Tanjong Pagar), #00ffff
+1.318944, 103.894456, BBQ Express @ Singpost Centre, #00ffff
+1.37981, 103.764378, BBQ Express @ Bukit Panjang Plaza, #00ffff
+1.35248, 103.945007, BBQ Express @ Tampines Mall, #00ffff
+1.277708, 103.844314, Kinou, #00ffff
+1.384923, 103.745014, BBQ Express @ Lot One Shoppers' Mall, #00ffff
+1.350819, 103.848385, BBQ Express @ Junction 8, #00ffff
+1.3199825, 103.8438568, Lao Beijing, #00ffff
+1.282075, 103.848212, The Muffinry/The Tipsy Owl, #00ffff
+1.280683, 103.84666, The Spiffy Dapper, #00ffff
+1.305699, 103.85378, Szechuan Kitchen, #00ffff
+1.27965, 103.843749, Chicken Up (Tanjong Pagar), #00ffff
+1.312357, 103.84025, Tunglok Seafood (Orchard Central) - 25% Off Lunch Buffet for 4 Pax, #00ffff
+1.3006313, 103.8397382, Tunglok XiHe Peking Duck (Orchard Central), #00ffff
+1.329458, 103.682091, TungLok Seafood (Arena Country Club) - 25% Off Arena Dinner Buffet for 4, #00ffff
+1.288888, 103.834156, Atrium Restaurant  - 50% Off Buffet, #00ffff
+1.337685, 103.793667, Tunglok XiHe Peking Duck (The Grandstand), #00ffff
+1.282396, 103.846952, TORIO Japanese Restaurant, #00ffff
+1.28967, 103.85007, 7 Course Set Menu by San Yuan Ge, #00ffff
+1.281994, 103.850013, Grain Traders, #00ffff
+1.3126417, 103.8544685, Sunset Bar @ One Farrer Hotel, #00ffff
+1.289474, 103.847357, Churreria La Lola (Clarke Quay), #00ffff
+1.3006139, 103.8451045, Lokkee, #00ffff
+1.295204, 103.846875, TungLok Signatures (The Central), #00ffff
+1.3006313, 103.8397382, Dancing Crab (Orchard Central), #00ffff
+1.334208, 103.742544, Kushiya Japanese Grill House, #00ffff
+1.318372, 103.827993, TungLok Signatures (Orchard Rendezvous Hotel), #00ffff
+1.3339604, 103.9636123, TungLok Signatures (Changi City Point), #00ffff
+1.279331, 103.841392, Wine & Chef, #00ffff
+1.28967, 103.85007, Breakfast or Bowls + Coffee Set by Pickleville, #00ffff
+1.2957656, 103.8561785, Vatos Urban Tacos, #00ffff
+1.3023411, 103.8364705, Wild Honey at Mandarin Gallery, #00ffff
+1.289236, 103.856403, Alter Ego, #00ffff
+1.2784302, 103.8433621, Niku Katsumata, #00ffff
+1.290102, 103.851493, Aura, #00ffff
+1.33483, 103.74696, San Yuan Ge, #00ffff
+1.28882, 103.85109, Tribe (The Arts House at Old Parliament), #00ffff
+1.311345, 103.814981, The Halia at Singapore Botanic Gardens, #00ffff
+1.291356, 103.856285, REDPAN, #00ffff
+1.3001, 103.85529, BAOBAO, #00ffff
+1.293359, 103.85356, Asian Market Cafe - 35% Off Lunch & Dinner Buffet, #00ffff
+1.2925, 103.84839, Main + Dessert Platter Set by Lewin Terrace, #00ffff
+39.60992, 3.02948, Lao Huo Tang, #00ffff
+1.3529186, 103.8354125, Columbus Coffee Co., #00ffff
+1.290781, 103.857486, Revel Bistro and Bar, #00ffff
+1.311893, 103.794478, SMbar (Holland Village), #00ffff
+1.295971, 103.858967, 1-for-1 Large Sized Bubble Tea by Hollin @ Suntec City, #00ffff
+1.28967, 103.85007, Jay Chou's Favourite or Signature Sandwich by Liang Sandwich Bar (Raffles City), #00ffff
+1.28967, 103.85007, Jay Chou's Favourite or Signature Sandwich by Liang Sandwich Bar (Bugis Junction), #00ffff
+1.291164, 103.845792, Ramen Keisuke Lobster King, #00ffff
+1.28967, 103.85007, Jay Chou's Favourite or Signature Sandwich by Liang Sandwich Bar (Vivo City), #00ffff
+1.310654, 103.855745, Spice Brasserie - 30% Off Buffet, #00ffff
+1.2939978, 103.8418827, Casa Rustico, #00ffff
+1.61804, 18.05981, Plain Vanilla @ ION Orchard, #00ffff
+1.28967, 103.85007, Doco Donburi, #00ffff
+1.29538, 103.85162, Paprika & Cumin, #00ffff
+1.30786, 103.90354, Braseiro Restaurant, #00ffff
+1.302048, 103.905468, Ramen Keisuke Tonkotsu King Matsuri (Parkway Parade), #00ffff
+1.277676, 103.843757, Tendon Ginza Itsuki (Paya Lebar), #00ffff
+1.332986, 103.84833, 1-for-1 Large Sized Bubble Tea by Hollin @ Toa Payoh Central, #00ffff
+1.287923, 103.849322, The Sampan, #00ffff
+1.293359, 103.8513711, Clove - Up to 50% Off Buffet, #00ffff
+1.298573, 103.855075, Ash & Elm - 20% Off Semi-Buffet/Champagne Brunch, #00ffff
+1.275245, 103.842026, Beef Sukiyaki Don Keisuke, #00ffff
+1.30078, 103.85919, The Mad Sailors, #00ffff
+1.278946, 103.842879, RIZU Modern Japanese Cuisine, #00ffff
+1.308718, 103.85165, Everest Kitchen - 40% Off Ala Carte Buffet, #00ffff
+1.28967, 103.85007, Plain Vanilla @ Telok Ayer, #00ffff
+1.288994, 103.805676, Uncle Leong Seafood (Anchor Point), #00ffff
+1.303943, 103.791753, Raj Restaurant (Biopolis), #00ffff
+1.28967, 103.85007, (working title), #00ffff
+1.31068, 103.86208, The Refinery, #00ffff
+1.276743, 103.848264, The Providore (Downtown), #00ffff
+1.3088, 103.8337, Shima Restaurant, #00ffff
+1.286933, 103.848853, 79 After Dark, #00ffff
+1.2835445, 103.8459553, Grids & Circles, #00ffff
+1.320789, 103.843145, Urbana Rooftop Bar, #00ffff
+1.310974, 103.852752, Cafe Salivation, #00ffff
+1.292165, 103.842696, District 10 (UE Square), #00ffff
+1.3081709, 103.8564208, CreatureS, #00ffff
+1.287462, 103.84716, Amò, #00ffff
+1.2807504, 103.8469389, PUJIM BBQ, #00ffff
+1.2903741, 103.8448958, Señor Taco (Clarke Quay), #00ffff
+1.2891106, 103.8466651, 8 Korean BBQ (The Central), #00ffff
+1.320789, 103.843145, Sky22, #00ffff
+1.28967, 103.85007, The Lazy Garden Cafe, #00ffff
+1.2981813, 103.8568767, Sawadee Thai Cuisine, #00ffff
+1.289704, 103.851285, Yan, #00ffff
+1.293777, 103.857708, Gudetama Cafe Singapore, #00ffff
+1.306616, 103.828949, il Cielo, #00ffff
+1.2801731, 103.8541949, Erwin's Gastrobar, #00ffff
+1.279445, 103.843324, Mitsu Sushi Bar, #00ffff
+1.305609, 103.822993, Nassim Hill Bakery Bistro Bar, #00ffff
+1.289498842, 103.82583, Jones the Grocer (Great World City), #00ffff
+1.30185, 103.841049, Izakaya SHUN, #00ffff
+1.2779286, 103.8435039, Chug Chug, #00ffff
+1.331191, 103.807444, Rosso Bianco, #00ffff
+1.28967, 103.85007, Morettino Italian Café & Bistro, #00ffff
+1.403516, 103.910849, King of Hot Pot, #00ffff
+1.28131, 103.848423, fȳr, #00ffff
+1.331041, 103.748283, Imperial Feast Restaurant, #00ffff
+1.30559, 103.83176, Hot Pot Set by Hai Xian Lao 海鲜捞 (Isetan Scotts), #00ffff
+1.303926, 103.835591, 63Celsius (Paragon), #00ffff
+1.2862467, 103.8498612, Charlie's Restaurant & Bar, #00ffff
+1.30356, 103.8348, The Orchard Cafe - 30% Off Buffet, #00ffff
+1.30535, 103.85318, Korean Fusion BBQ (Dunlop Street) - 50% Off Buffet for 2 Pax, #00ffff
+1.28967, 103.85007, Hot Pot Set by Hai Xian Lao 海鲜捞 (Wilkie), #00ffff
+1.30041, 103.83741, Chicken Chop Set Menu + Drink by G Chop House, #00ffff
+1.29843, 103.84384, The Dining Hall by Doco Donburi, #00ffff
+1.32466, 103.93238, Jianghu Hotpot - 27% off All Day Buffet, #00ffff
+1.30457, 103.90241, Superswirl & Smoothie Combo by Beriwell, #00ffff
+1.29211, 103.857048, Weekday Lunch Set Menu by Revel Bistro & Bar, #00ffff
+1.3006313, 103.8397382, Tsukiji Fish Market Restaurant, #00ffff
+1.293255, 103.76878, Be Frank, #00ffff
+1.290489, 103.838248, Carrotsticks and Cravings (Robertson Quay), #00ffff
+1.307576, 103.833347, 1-for-1 Beverages by Hi Tea, #00ffff
+1.313297, 103.899848, Home of Seafood, #00ffff
+1.2823982, 103.851687, NJ Relish - 1-for-1 or 20% Off Daily Buffet, #00ffff
+1.302063, 103.812944, Carrotsticks and Cravings (Dempsey), #00ffff
+1.30398, 103.8028, Odoru Kuma, #00ffff
+1.2917459, 103.8424633, PORTA, #00ffff
+1.350587, 103.87296, Yoogane @ Nex, #00ffff
+1.299743, 103.847867, (Cathay) FrapasBar by Saveur, #00ffff
+1.301175, 103.838549, Yoogane @ 313 Somerset, #00ffff
+1.30025, 103.855843, Yoogane @ Bugis Junction, #00ffff
+1.33429, 103.742538, Yoogane @ Westgate, #00ffff
+1.264924, 103.822926, Jia Xiang Sarawak Kuching Kolo Mee (Vivocity), #00ffff
+1.295327, 103.851464, El Mero Mero, #00ffff
+1.345437, 103.933572, Yoogane @ Tampines Mall, #00ffff
+1.3080164, 103.8954001, 6 Letter Coffee, #00ffff
+1.304913, 103.808259, Bincho at Min Jiang, #00ffff
+1.264431, 103.822347, Lobster Roll Set by Chunky Lobsters @ Vivocity, #00ffff
+1.27555, 103.844552, Jia Xiang Sarawak Kuching Kolo Mee (Icon Village), #00ffff
+1.27391, 103.801369, Jia Xiang Sarawak Kuching Kolo Mee (ARC@PSA), #00ffff
+1.30041, 103.83741, 2 Course Set Meal by Poke Theory @ 111 Somerset, #00ffff
+1.3234177, 103.8557986, Doughnut Shack, #00ffff
+1.300376, 103.852234, Roots @ Fortune Centre, #00ffff
+1.336988, 103.88882, Jia Xiang Sarawak Kuching Kolo Mee (18 Tai Seng), #00ffff
+1.248081, 103.84165, Sabio By The Sea, #00ffff
+1.442029, 103.823657, JJ Thai Cuisine, #00ffff
+1.286952, 103.849615, Vespetta Italian Restaurant, #00ffff
+1.305987, 103.832523, Wild Honey at Scotts Square, #00ffff
+1.318639, 103.902951, Picotin Express (East Coast), #00ffff
+1.372855, 103.85587, Signature Crepe Cake or Waffle by Galettes, #00ffff
+1.2845756, 103.847004, Mister Wu, #00ffff
+1.305029, 103.788844, Cali, Park Avenue Rochester Hotel, #00ffff
+1.293218, 103.853607, The Stamford Brasserie, #00ffff
+1.335725, 103.963123, Cali, Park Avenue Changi Hotel, #00ffff
+1.300362, 103.850825, 2 Course Set Menu by Deli's Kitchen, #00ffff
+1.27945, 103.84288, Soufflé, #00ffff
+1.295367, 103.852468, New Ubin Seafood (CHIJMES), #00ffff
+1.426705, 103.836693, Kingdom Korea BBQ - 10% Off Buffet, #00ffff
+1.293085, 103.853418, SKAI Restaurant, #00ffff
+1.2866982, 103.8068191, Carrara Cafe, #00ffff
+1.278877, 103.813289, TXA Pintxo Bar at The Alkaff Mansion, #00ffff
+1.308634, 103.862263, Oberstrasse, #00ffff
+1.2942801, 103.8537903, Szechuan Court - 20% off Weekend Dim Sum Buffet, #00ffff
+1.314249, 103.891347, 1-for-1 Mains by Merdandy Bar & Cafe, #00ffff
+1.2845756, 103.847004, Mister Wu - 40% Off Dim Sum & Tea Buffet, #00ffff
+1.3905114, 103.9750442, Changi Beach Seafood Paradise, #00ffff
+1.27893, 103.81303, UNA at The Alkaff Mansion, #00ffff
+1.3905114, 103.9750442, Changi Beach Seafood Paradise - 53% Off Weekend Lunch Buffet, #00ffff
+1.366076, 103.866683, Swatow Garden @ Serangoon Garden Country Club, #00ffff
+1.278877, 103.813289, Wildseed Cafe at The Alkaff Mansion, #00ffff
+1.3060689, 103.9050245, Zaffron Kitchen (East Coast), #00ffff
+1.300506, 103.859192, Windowsill Pies, #00ffff
+1.3202031, 103.8412433, Fish & Co. (Novena Square), #00ffff
+1.3346373, 103.7426584, Zaffron Kitchen (Westgate), #00ffff
+1.3690938, 103.846768, Fish & Co. (AMK Hub), #00ffff
+1.308111, 103.903375, Vietsea Restaurant, #00ffff
+1.302202, 103.840439, Ginger Thai, #00ffff
+1.301351, 103.849637, SU Korean BBQ, #00ffff
+1.3339159, 103.7251078, Fish & Co. (Westgate), #00ffff
+1.292997, 103.859017, Kurama Robatayaki, #00ffff
+1.2657804, 103.8134993, Fish & Co. (VivoCity), #00ffff
+1.325037, 103.9274756, Fish & Co. (Bedok Mall), #00ffff
+1.28946, 103.856979, Jia Xiang Sarawak Kuching Kolo Mee (Marina Square), #00ffff
+1.2941429, 103.8578406, Yogurtland (Suntec City), #00ffff
+1.3393465, 103.7031987, Fish & Co. (Jurong Point), #00ffff
+1.2981505, 103.8555636, ENG's Char Siew Wantan Mee @ Bugis Cube, #00ffff
+1.35514, 103.99006, Fish & Co. (Changi Airport T2), #00ffff
+1.4112046, 103.8442534, No.3 Crab Delicacy (Orchid Country Club), #00ffff
+1.2767099, 103.8481912, The Autobus, #00ffff
+1.35818, 103.95059, 2 Course Set by Ice Creamlicious, #00ffff
+1.2887943, 103.8492539, (Boat Quay) HANS IM GLÜCK German Burgergrill, #00ffff
+1.2838, 103.81592, Boba Waffles or Toast + Tea Set by The Bakery Chef, #00ffff
+1.3540006, 103.9429156, Fish & Co. (Tampines One), #00ffff
+1.29986, 103.854114, Fish & Co. (Bugis+), #00ffff
+1.2936405, 103.8190523, Fish & Co. (Raffles City), #00ffff
+1.29661, 103.857079, 2 Course Set by Hunger's Kitchen By Arome, #00ffff
+1.4067681, 103.9003316, Fish & Co. (Waterway Point), #00ffff
+1.3915139, 103.8738275, Fish & Co. (Seletar Mall), #00ffff
+1.2784485, 103.8427697, L'Entrecôte The Steak & Fries Bistro (Duxton)-OPV, #00ffff
+1.280686, 103.841458, The Guild, #00ffff
+1.295705, 103.859734, 1-for-1 Froyo by Froyolo (Pasarbella), #00ffff
+1.31968, 103.81463, 9 Course Communal Dinner Set Menu by Botanico at The Garage (50% off 2nd Diner), #00ffff
+1.3037457, 103.8330643, Wonderland Savour (Wisma Atria), #00ffff
+1.29073, 103.84591, 1-for-1 Signature Mains by Hooters, #00ffff
+1.2989229, 103.7854601, Wok Palace, #00ffff
+1.2640606, 103.8201619, Wonderland Savour (VivoCity), #00ffff
