@@ -1,0 +1,146 @@
+{
+  "title": "Fish & Co. (Waterway Point)",
+  "link": "https://shop.chope.co/collections/all-vouchers/products/fish-co-waterway-point",
+  "id": "fish-co-waterway-point",
+  "address": "83 Punggol Central, #B1-18, Waterway Point, Singapore (828761)",
+  "tags": ["HalalCertified", "Seafood"],
+  "images": [],
+  "loc": [103.9003316, 1.4067681],
+  "maxPax": 8,
+  "daysExpiry": 90,
+  "minPrice": 32.5,
+  "maxPrice": 90,
+  "maxDiscount": 35,
+  "offers": [
+    {
+      "dayStart": 0,
+      "dayEnd": 4,
+      "timeStart": "01:30pm",
+      "timeEnd": "05:30pm",
+      "isAvailable": true,
+      "usualPrice": "50.00",
+      "offerPrice": "32.50",
+      "percentOff": "35"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 4,
+      "timeStart": "08:30pm",
+      "timeEnd": "09:30pm",
+      "isAvailable": true,
+      "usualPrice": "50.00",
+      "offerPrice": "32.50",
+      "percentOff": "35"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 6,
+      "timeStart": "12:00am",
+      "timeEnd": "11:59pm",
+      "isAvailable": true,
+      "usualPrice": "50.00",
+      "offerPrice": "45.00",
+      "percentOff": "10"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 4,
+      "timeStart": "01:30pm",
+      "timeEnd": "05:30pm",
+      "isAvailable": true,
+      "usualPrice": "100.00",
+      "offerPrice": "65.00",
+      "percentOff": "35"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 4,
+      "timeStart": "08:30pm",
+      "timeEnd": "09:30pm",
+      "isAvailable": true,
+      "usualPrice": "100.00",
+      "offerPrice": "65.00",
+      "percentOff": "35"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 6,
+      "timeStart": "12:00am",
+      "timeEnd": "11:59pm",
+      "isAvailable": true,
+      "usualPrice": "100.00",
+      "offerPrice": "90.00",
+      "percentOff": "10"
+    }
+  ],
+  "availableOffers": [
+    {
+      "dayStart": 0,
+      "dayEnd": 4,
+      "timeStart": "01:30pm",
+      "timeEnd": "05:30pm",
+      "isAvailable": true,
+      "usualPrice": "50.00",
+      "offerPrice": "32.50",
+      "percentOff": "35"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 4,
+      "timeStart": "08:30pm",
+      "timeEnd": "09:30pm",
+      "isAvailable": true,
+      "usualPrice": "50.00",
+      "offerPrice": "32.50",
+      "percentOff": "35"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 6,
+      "timeStart": "12:00am",
+      "timeEnd": "11:59pm",
+      "isAvailable": true,
+      "usualPrice": "50.00",
+      "offerPrice": "45.00",
+      "percentOff": "10"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 4,
+      "timeStart": "01:30pm",
+      "timeEnd": "05:30pm",
+      "isAvailable": true,
+      "usualPrice": "100.00",
+      "offerPrice": "65.00",
+      "percentOff": "35"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 4,
+      "timeStart": "08:30pm",
+      "timeEnd": "09:30pm",
+      "isAvailable": true,
+      "usualPrice": "100.00",
+      "offerPrice": "65.00",
+      "percentOff": "35"
+    },
+    {
+      "dayStart": 0,
+      "dayEnd": 6,
+      "timeStart": "12:00am",
+      "timeEnd": "11:59pm",
+      "isAvailable": true,
+      "usualPrice": "100.00",
+      "offerPrice": "90.00",
+      "percentOff": "10"
+    }
+  ],
+  "tos": [
+    "Reservation has to be done on www.chope.co before you dine at your selected restaurant.",
+    "Voucher is valid for 90 days from time of purchase. No extension will be entertained.",
+    "Voucher is valid for Ala Carte menu only.",
+    "Limited to a maximum of 2 Off Peak voucher redemptions per bill/table. Splitting of bill/table is strictly not allowed. ",
+    "Off Peak voucher is not applicable for reservations of 8 pax and above. ",
+    "Voucher is not applicable for use during Eve of Public Holidays, Public Holidays and Special Occasions (Valentine's Day, Fathers' Day, Mother's Day etc)."
+  ]
+}
