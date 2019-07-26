@@ -53,6 +53,7 @@ const burppleWorker = asyncWorker({
             link
           },
           {
+            setDefaultsOnInsert: true,
             upsert: true,
             new: true
           }
@@ -109,6 +110,7 @@ const burppleWorkerSingle = asyncWorker({
           }
         },
         {
+          setDefaultsOnInsert: true,
           upsert: true,
           new: true
         }
@@ -138,6 +140,7 @@ const burppleWorkerSingle = asyncWorker({
           }
         },
         {
+          setDefaultsOnInsert: true,
           upsert: true,
           new: true
         }
