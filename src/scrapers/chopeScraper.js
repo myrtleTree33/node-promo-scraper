@@ -1,3 +1,4 @@
+import sleep from 'await-sleep';
 import ChopeParser from 'node-scraper-chope';
 
 import { CronJob } from 'cron';
@@ -5,17 +6,18 @@ import { CronJob } from 'cron';
 import logger from '../logger';
 import asyncWorker from '../utils/asyncWorker';
 import ChopeOutlet from '../models/ChopeOutlet';
+import getLngLat from '../utils/locUtils';
 
 const scrapePageWorker = asyncWorker({
   initialState: {
     numEntries: undefined,
-    page: 11
+    page: 1
   },
   maxTimeout: 10000,
   onTriggered: async (prevState = {}) => {
-    try {
-      const { page } = prevState;
+    const { page } = prevState;
 
+    try {
       // Fill in page scraper code here
       const entries = await ChopeParser.scrapeOffers({
         page
@@ -26,7 +28,7 @@ const scrapePageWorker = asyncWorker({
       // }
 
       // Map entries to DB here
-      const outletPromises = entries.map(entry => {
+      const outletPromises = entries.map(async entry => {
         const {
           title,
           link,
@@ -45,6 +47,12 @@ const scrapePageWorker = asyncWorker({
           tos = []
         } = entry;
 
+        let resolvedLoc = loc;
+
+        if (!resolvedLoc) {
+          resolvedLoc = await getLngLat(address);
+        }
+
         return ChopeOutlet.update(
           { outletId },
           {
@@ -54,7 +62,7 @@ const scrapePageWorker = asyncWorker({
             address,
             tags,
             images,
-            loc,
+            loc: resolvedLoc,
             maxPax,
             daysExpiry,
             minPrice,
@@ -76,13 +84,23 @@ const scrapePageWorker = asyncWorker({
 
       return { ...prevState, page: page + 1, numEntries: entries.length };
     } catch (e) {
+      if (e.message === 'read ECONNRESET') {
+        logger.error('Chope: Timeout on chope.co.  Resting before continuing..');
+        await sleep(5000);
+        return { ...prevState, page, numEntries: 1 }; // set to 1 to trigger loop
+      }
+
       logger.error(e.message);
       logger.error('During page scraping, encountered an exception.  Routine will now terminate.');
     }
   },
   toProceed: async (prevState = {}) => {
     const { numEntries } = prevState;
-    return numEntries > 0;
+    const toContinue = numEntries > 0;
+    if (!toContinue) {
+      logger.info('Done scraping chope.co offers.');
+    }
+    return toContinue;
   }
 });
 
