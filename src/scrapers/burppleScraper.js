@@ -94,7 +94,7 @@ const burppleWorkerSingle = asyncWorker({
   initialState: {
     toContinue: true
   },
-  maxTimeout: 5000,
+  maxTimeout: 1000,
   onTriggered: async () => {
     let outletId = null;
     try {
