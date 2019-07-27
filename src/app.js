@@ -52,7 +52,7 @@ app.use((err, req, res, next) => {
   res.status(err.httpCode || 500).json({ code, message });
 });
 
-// startScraping();
-dumpOutlets();
+startScraping();
+// dumpOutlets();
 
 export default app;

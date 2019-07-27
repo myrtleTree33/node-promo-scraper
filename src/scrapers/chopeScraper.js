@@ -24,7 +24,7 @@ const scrapePageWorker = asyncWorker({
       });
 
       // if (page % 5 === 0) {
-      logger.info(`Scraping page ${page}..`);
+      logger.info(`[Chope] Scraping page ${page}..`);
       // }
 
       // Map entries to DB here
@@ -47,11 +47,7 @@ const scrapePageWorker = asyncWorker({
           tos = []
         } = entry;
 
-        let resolvedLoc = loc;
-
-        if (!resolvedLoc) {
-          resolvedLoc = await getLngLat(address);
-        }
+        const resolvedLoc = loc || (await getLngLat(address));
 
         return ChopeOutlet.update(
           { outletId },
@@ -62,7 +58,10 @@ const scrapePageWorker = asyncWorker({
             address,
             tags,
             images,
-            loc: resolvedLoc,
+            location: {
+              type: 'Point',
+              coordinates: resolvedLoc
+            },
             maxPax,
             daysExpiry,
             minPrice,
@@ -85,34 +84,36 @@ const scrapePageWorker = asyncWorker({
       return { ...prevState, page: page + 1, numEntries: entries.length };
     } catch (e) {
       if (e.message === 'read ECONNRESET') {
-        logger.error('Chope: Timeout on chope.co.  Resting before continuing..');
+        logger.error('[Chope] Timeout on chope.co.  Resting before continuing..');
         await sleep(5000);
         return { ...prevState, page, numEntries: 1 }; // set to 1 to trigger loop
       }
 
+      logger.error(
+        '[Chope] During page scraping, encountered an exception.  Routine will now terminate.'
+      );
       logger.error(e.message);
-      logger.error('During page scraping, encountered an exception.  Routine will now terminate.');
     }
   },
   toProceed: async (prevState = {}) => {
     const { numEntries } = prevState;
     const toContinue = numEntries > 0;
     if (!toContinue) {
-      logger.info('Done scraping chope.co offers.');
+      logger.info('[Chope] Done scraping chope.co offers.');
     }
     return toContinue;
   }
 });
 
 const scrapeSite = () => {
-  logger.info('Started Chope scraping..');
+  logger.info('[Chope] Started Chope scraping..');
   scrapePageWorker();
 };
 
 const scrapeChopeScheduled = interval => {
-  const job = new CronJob(interval, () => scrapeSite(), null, true, 'America/Los_Angeles');
+  const job = new CronJob(interval, () => scrapeSite(), null, true, 'Asia/Singapore');
   job.start();
-  logger.info('Scheduled Chope scraping.');
+  logger.info('[Chope] Scheduled Chope scraping.');
 
   scrapeSite();
 };

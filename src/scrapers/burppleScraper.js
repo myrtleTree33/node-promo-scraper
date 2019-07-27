@@ -5,13 +5,14 @@ import { CronJob } from 'cron';
 import logger from '../logger';
 import asyncWorker from '../utils/asyncWorker';
 import BurppleOutlet from '../models/BurppleOutlet';
+import getLngLat from '../utils/locUtils';
 
 const burppleWorker = asyncWorker({
   initialState: {
     numEntries: undefined,
     page: 1
   },
-  maxTimeout: 1000,
+  maxTimeout: 2000,
   onTriggered: async (prevState = {}) => {
     try {
       const { page } = prevState;
@@ -22,11 +23,11 @@ const burppleWorker = asyncWorker({
         priceMax: 90
       });
 
-      if (page % 5 === 0) {
-        logger.info(`Scraping page ${page}..`);
-      }
+      // if (page % 5 === 0) {
+      logger.info(`[Burpple] Scraping page ${page}..`);
+      // }
 
-      const outletPromises = entries.map(entry => {
+      const outletPromises = entries.map(async entry => {
         const {
           id,
           imgUrls,
@@ -38,6 +39,15 @@ const burppleWorker = asyncWorker({
           genericLoc,
           link
         } = entry;
+
+        // Use existing latlng if found, so we can
+        // be nice.
+        let resolvedLatLng = [0, 0];
+        const outlet = await BurppleOutlet.findOne({ outletId: id });
+        if (outlet) {
+          resolvedLatLng = outlet.location.coordinates;
+        }
+
         return BurppleOutlet.update(
           { outletId: id },
           {
@@ -50,7 +60,11 @@ const burppleWorker = asyncWorker({
             categories,
             hasBeyond,
             genericLoc,
-            link
+            link,
+            location: {
+              type: 'Point',
+              coordinates: resolvedLatLng
+            }
           },
           {
             setDefaultsOnInsert: true,
@@ -64,8 +78,10 @@ const burppleWorker = asyncWorker({
 
       return { ...prevState, page: page + 1, numEntries: entries.length };
     } catch (e) {
-      logger.error(e);
-      logger.error('During page scraping, encountered an exception.  Routine will now terminate.');
+      logger.error(e.message);
+      logger.error(
+        '[Burpple] During page scraping, encountered an exception.  Routine will now terminate.'
+      );
     }
   },
   toProceed: async (prevState = {}) => {
@@ -78,11 +94,23 @@ const burppleWorkerSingle = asyncWorker({
   initialState: {
     toContinue: true
   },
-  maxTimeout: 1000,
+  maxTimeout: 5000,
   onTriggered: async () => {
     let outletId = null;
     try {
-      const outlet = await BurppleOutlet.findOne({ location: null });
+      const outlet = await BurppleOutlet.findOne({
+        $or: [
+          {
+            location: {
+              type: 'Point',
+              coordinates: [0, 0]
+            }
+          },
+          {
+            location: null
+          }
+        ]
+      });
 
       if (!outlet) {
         return {
@@ -92,13 +120,19 @@ const burppleWorkerSingle = asyncWorker({
 
       outletId = outlet.outletId;
 
-      logger.info(`Updating ${outletId}`);
+      logger.info(`[Burpple] Updating ${outletId}`);
+
+      console.log(outlet.link);
 
       const entry = await BurppleParser.scrapeEntry({
         url: outlet.link
       });
 
       const { address, location } = entry;
+      let resolvedLocation = location;
+      if (!resolvedLocation && address) {
+        resolvedLocation = await getLngLat(address);
+      }
 
       await BurppleOutlet.update(
         { outletId },
@@ -106,7 +140,7 @@ const burppleWorkerSingle = asyncWorker({
           address,
           location: {
             type: 'Point',
-            coordinates: location
+            coordinates: resolvedLocation
           }
         },
         {
@@ -120,23 +154,26 @@ const burppleWorkerSingle = asyncWorker({
         toContinue: true
       };
     } catch (e) {
-      logger.error(e);
-      logger.error('During scraping a single entry, encountered an exception.');
+      logger.error('------------------');
+      logger.error(e.message);
+      logger.error(e.response);
+      logger.error('------------------');
+      logger.error('[Burpple] During scraping a single entry, encountered an exception.');
 
       if (!outletId) {
-        logger.error('Due to error and unknown outletId, routine will now terminate.');
+        logger.error('[Burpple] Due to error and unknown outletId, routine will now terminate.');
         return;
       }
 
       // Update coords if outlet found
       // but error parsing for later review.
-      logger.info(`Updating coords of ${outletId} to [0,0] for review.`);
+      logger.info(`[Burpple] Updating coords of ${outletId} to [0,0] for review.`);
       await BurppleOutlet.update(
         { outletId },
         {
           location: {
             type: 'Point',
-            coordinates: [0, 0]
+            coordinates: [-1, -1]
           }
         },
         {
@@ -153,20 +190,23 @@ const burppleWorkerSingle = asyncWorker({
   },
   toProceed: async (prevState = {}) => {
     const { toContinue } = prevState;
+    if (!toContinue) {
+      logger.info('[Burpple] Done scraping individual entries.');
+    }
     return toContinue;
   }
 });
 
 const scrapeBurpple = () => {
-  logger.info('Started Burpple scraping..');
+  logger.info('[Burpple] Started Burpple scraping..');
   burppleWorker();
   burppleWorkerSingle();
 };
 
 const scrapeBurppleScheduled = interval => {
-  const job = new CronJob(interval, () => scrapeBurpple(), null, true, 'America/Los_Angeles');
+  const job = new CronJob(interval, () => scrapeBurpple(), null, true, 'Asia/Singapore');
   job.start();
-  logger.info('Scheduled Burpple scraping.');
+  logger.info('[Burpple] Scheduled Burpple scraping.');
 
   scrapeBurpple();
 };

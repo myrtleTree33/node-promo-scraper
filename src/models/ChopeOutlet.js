@@ -29,9 +29,10 @@ const chopeOutletSchema = new Schema({
     required: true,
     default: []
   },
-  loc: {
-    type: [Number],
-    required: true
+  // See https://stackoverflow.com/questions/32199658/create-find-geolocation-in-mongoose
+  location: {
+    type: { type: String },
+    coordinates: [Number]
   },
   maxPax: {
     type: Number
