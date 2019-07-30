@@ -144,7 +144,6 @@ const runReduceOutlets = () =>
 const runReduceOutletsScheduled = interval => {
   const job = new CronJob(interval, () => runReduceOutlets(), null, true, 'Asia/Singapore');
   job.start();
-  runReduceOutlets();
 };
 
 export default runReduceOutletsScheduled;
