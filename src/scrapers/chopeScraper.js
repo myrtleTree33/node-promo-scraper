@@ -57,7 +57,7 @@ const scrapePageWorker = asyncWorker({
             outletId,
             address,
             tags,
-            images,
+            imgUrls: images,
             location: {
               type: 'Point',
               coordinates: resolvedLoc

@@ -19,8 +19,10 @@ const amexOutletSchema = new Schema({
   link: {
     type: String
   },
-  imgUrl: {
-    type: String
+  imgUrls: {
+    type: [String],
+    required: true,
+    default: []
   },
   offers: [
     new Schema({

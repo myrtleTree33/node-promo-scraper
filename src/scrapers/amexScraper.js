@@ -48,7 +48,7 @@ const scrapePageWorker = asyncWorker({
             address,
             telephone,
             link: website,
-            imgUrl,
+            imgUrls: [imgUrl],
             offers,
             location: {
               type: 'Point',

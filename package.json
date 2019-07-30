@@ -44,6 +44,7 @@
     "geolib": "^3.0.4",
     "http-errors": "^1.7.1",
     "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.15",
     "mongoose": "^5.3.11",
     "mongoose-hidden": "^1.6.0",
     "morgan": "^1.9.1",
@@ -58,6 +59,7 @@
     "set-clustering": "^1.0.1",
     "string-similarity": "^3.0.0",
     "supertiler": "^0.0.2",
+    "uuid": "^3.3.2",
     "winston": "^3.1.0"
   },
   "devDependencies": {

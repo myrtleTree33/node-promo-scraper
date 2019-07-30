@@ -24,7 +24,7 @@ const chopeOutletSchema = new Schema({
     type: [String],
     required: true
   },
-  images: {
+  imgUrls: {
     type: [String],
     required: true,
     default: []
