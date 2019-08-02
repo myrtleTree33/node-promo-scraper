@@ -53,7 +53,7 @@ app.use((err, req, res, next) => {
   res.status(err.httpCode || 500).json({ code, message });
 });
 
-// startScraping();
+startScraping();
 // dumpOutlets();
 runReduceOutlets('1 */3 * * *');
 
