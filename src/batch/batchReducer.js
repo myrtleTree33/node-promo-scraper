@@ -167,53 +167,64 @@ const reduceOutlets = async () => {
 
   // outlets = outlets.filter(o => o.length > 1);
 
-  // Match each outlet to DB entry
-  const upsertPromises = outlets.map(outletArr => {
-    const titles = _.uniq(outletArr.map(o => o.title));
-    const location = (outletArr.find(o => o.location) || {}).location;
-    const address = (outletArr.find(o => o.address) || {}).address;
-    const telephone = (outletArr.find(o => !o.telephone) || {}).telephone;
+  // Progressively match each outlet to DB entry
+  const chunks = _.chunk(outlets, 1000);
+  for (let i = 0; i < chunks.length; i++) {
+    (async () => {
+      const upsertPromises = outlets.map(outletArr => {
+        const titles = _.uniq(outletArr.map(o => o.title));
+        const location = (outletArr.find(o => o.location) || {}).location;
+        const address = (outletArr.find(o => o.address) || {}).address;
+        const telephone = (outletArr.find(o => !o.telephone) || {}).telephone;
 
-    let imgUrls = outletArr.map(o => o.imgUrls);
-    imgUrls = [].concat.apply([], imgUrls);
-    const providers = outletArr.map(o => {
-      const { outletId, link, provider } = o;
+        let imgUrls = outletArr.map(o => o.imgUrls);
+        imgUrls = [].concat.apply([], imgUrls);
+        const providers = outletArr.map(o => {
+          const { outletId, link, provider } = o;
 
-      // Add switching for promo here per provider;
-      // Adds the fields hasPromo and promoInfo
-      const additionalInfo = processPromo(o);
+          // Add switching for promo here per provider;
+          // Adds the fields hasPromo and promoInfo
+          const additionalInfo = processPromo(o);
 
-      return { outletId, link, provider, ...additionalInfo };
-    });
+          return { outletId, link, provider, ...additionalInfo };
+        });
 
-    // This field is across all providers
-    const hasPromo = providers.reduce((hasPromos, p) => hasPromos || p.hasPromo, false);
+        // This field is across all providers
+        const hasPromo = providers.reduce((hasPromos, p) => hasPromos || p.hasPromo, false);
 
-    return MatchedOutlet.findOneAndUpdate(
-      {
-        titles: { $in: titles }
-      },
-      {
-        titles,
-        location,
-        address,
-        telephone,
-        imgUrls,
-        hasPromo,
-        providers,
-        lastSeen: new Date()
-      },
-      {
-        upsert: true,
-        unique: true,
-        setDefaultsOnInsert: true
-      }
-    );
-  });
+        return MatchedOutlet.findOneAndUpdate(
+          {
+            titles: { $in: titles }
+          },
+          {
+            titles,
+            location,
+            address,
+            telephone,
+            imgUrls,
+            hasPromo,
+            providers,
+            lastSeen: new Date()
+          },
+          {
+            upsert: true,
+            unique: true,
+            setDefaultsOnInsert: true
+          }
+        );
+      });
 
-  // Upsert all new entries
-  await Promise.all(upsertPromises);
-  logger.info(`[Matcher] Upserted ${upsertPromises.length} matched outlets.`);
+      // Upsert all new entries
+      await Promise.all(upsertPromises);
+      logger.info(
+        `[Matcher] Chunk ${i + 1}/${chunks.length} Upserted ${
+          upsertPromises.length
+        } matched outlets.`
+      );
+    })();
+  }
+
+  logger.info(`[Matcher] Upserted ${outlets.length} matched outlets.`);
 
   // Remove all entries that were stale / not updated in the last 20 mins
   const staleRecords = await MatchedOutlet.deleteMany({
@@ -235,7 +246,7 @@ const runReduceOutlets = () =>
 const runReduceOutletsScheduled = interval => {
   const job = new CronJob(interval, () => runReduceOutlets(), null, true, 'Asia/Singapore');
   job.start();
-  // runReduceOutlets(); // uncomment in debug mode
+  runReduceOutlets(); // uncomment in debug mode
 };
 
 export default runReduceOutletsScheduled;
