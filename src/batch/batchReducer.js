@@ -171,8 +171,10 @@ const reduceOutlets = async () => {
   // Progressively match each outlet to DB entry
   const chunks = _.chunk(outlets, 50);
   for (let i = 0; i < chunks.length; i++) {
+    logger.info(`[Matcher] Processing chunk ${i}..`);
     (async () => {
-      const upsertPromises = outlets.map(outletArr => {
+      const currOutlets = chunks[i];
+      const upsertPromises = currOutlets.map(outletArr => {
         const titles = _.uniq(outletArr.map(o => o.title));
         const location = (outletArr.find(o => o.location) || {}).location;
         const address = (outletArr.find(o => o.address) || {}).address;
