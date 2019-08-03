@@ -83,7 +83,7 @@ const processPromo = providerOutlet => {
   }
 };
 
-const matchOutlets = async outlets => {
+const matchOutlets = outlets => {
   const numRecords = outlets.length;
   logger.info(`[Matcher] Processing ${numRecords} records.`);
 
@@ -116,9 +116,9 @@ const matchOutlets = async outlets => {
     }
   }
 
-  outlets = outlets.filter(Boolean);
+  const outletsFinal = outlets.filter(Boolean);
   logger.info(`[Matcher] Done matching content.  numUniqueOutlets=${outlets.length}`);
-  return Promise.resolve(outlets);
+  return outletsFinal;
 };
 
 const reduceOutlets = async () => {
@@ -163,9 +163,10 @@ const reduceOutlets = async () => {
   // outlets = outlets.splice(0, 1000);
 
   // Create unique outlets
-  outlets = await matchOutlets(outlets);
+  outlets = matchOutlets(outlets);
 
   // outlets = outlets.filter(o => o.length > 1);
+  logger.info('[Matcher] Proceeding to chunk outlets..');
 
   // Progressively match each outlet to DB entry
   const chunks = _.chunk(outlets, 50);
