@@ -38,6 +38,11 @@ const matchedOutletSchema = new Schema({
   imgUrls: {
     type: [String]
   },
+  hasPromo: {
+    type: Boolean,
+    default: false,
+    required: true
+  },
   providers: [
     new Schema({
       provider: {
@@ -56,6 +61,9 @@ const matchedOutletSchema = new Schema({
         type: Boolean,
         default: false,
         required: true
+      },
+      promoInfo: {
+        type: Object
       }
     })
   ]
