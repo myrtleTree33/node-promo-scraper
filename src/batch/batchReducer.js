@@ -168,7 +168,7 @@ const reduceOutlets = async () => {
   // outlets = outlets.filter(o => o.length > 1);
 
   // Progressively match each outlet to DB entry
-  const chunks = _.chunk(outlets, 1000);
+  const chunks = _.chunk(outlets, 50);
   for (let i = 0; i < chunks.length; i++) {
     (async () => {
       const upsertPromises = outlets.map(outletArr => {
