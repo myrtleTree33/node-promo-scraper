@@ -23,6 +23,12 @@ const burppleWorker = asyncWorker({
         priceMax: 90
       });
 
+      // Shortcircuit if page is NaN
+      if (!page) {
+        logger.warn('[Burpple] Short-circuiting scraper as page is NaN.');
+        return { ...prevState, page, numEntries: 0 };
+      }
+
       // if (page % 5 === 0) {
       logger.info(`[Burpple] Scraping page ${page}..`);
       // }
