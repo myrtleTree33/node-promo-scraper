@@ -35,7 +35,7 @@
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "bcrypt": "^3.0.2",
+    "bcrypt": "^5.0.0",
     "bktree": "^0.1.4",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
