@@ -54,7 +54,7 @@
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "pug": "^2.0.3",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "rimraf": "^2.6.2",
     "set-clustering": "^1.0.1",
     "string-similarity": "^3.0.0",
